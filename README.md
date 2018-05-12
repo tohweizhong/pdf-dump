@@ -1,5 +1,17 @@
 # pdf-dump
-A dump of all the data science pdf's that I have accumulated over the years.
+A dump of all the data science pdf's that I have accumulated over the years, organized in the following directories:
+
+* Books
+* Datacamp
+* Data visualization
+* Geospatial analysis
+* Hyperparameter tunining
+* Machine learning
+* Time series analysis
+* R
+* Python
+* Spark
+* Others
 
 Also, I have included a list of typical resource recommendations for picking up machine learning in this README. I plan to continually update this repo from time to time. Some of these are the classics, while others are my personal recommendations. The last section on "References" are not learning resources, but references on specific problems that I encountered. If you are here for the resources, please ignore this section. I will try as best as I can to categorise the resources listed here, first by medium (most hardcore to least hardcore) then by high-level content.
 
