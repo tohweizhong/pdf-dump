@@ -8,7 +8,8 @@ A dump of all the data science pdf's that I have accumulated over the years, org
 * 05 Python
 * 06 R
 * 07 Spark
-* 08 Others
+* 08 NUS Statistics
+* 09 Others
 
 Also, I have included a list of typical resource recommendations for picking up machine learning in this README. I plan to continually update this repo from time to time. Some of these are the classics, while others are my personal recommendations. The last section on "References" are not learning resources, but references on specific problems that I encountered. If you are here for the resources, please ignore this section. I will try as best as I can to categorise the resources listed here, first by medium (most hardcore to least hardcore) then by high-level content.
 
