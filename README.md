@@ -38,6 +38,9 @@ Also, I have included a list of typical resource recommendations for picking up 
 
 ## Websites/Webpages/Videos
 
+### Machine Learning
+* [Waterloo Machine Learning Course by Shai Ben-David](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)
+
 ### Deep Learning
 * [Deeplearningbook.org](http://www.deeplearningbook.org/)
 * [DeepLearning.TV on YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
