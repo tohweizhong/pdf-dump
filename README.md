@@ -40,6 +40,7 @@ Also, I have included a list of typical resource recommendations for picking up 
 
 ### Machine Learning
 * [Waterloo Machine Learning Course by Shai Ben-David](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)
+* [Rules of Machine Learning by Google](https://developers.google.com/machine-learning/rules-of-ml/)
 
 ### Deep Learning
 * [Deeplearningbook.org](http://www.deeplearningbook.org/)
