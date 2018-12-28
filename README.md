@@ -1,16 +1,16 @@
 # pdf-dump
 A dump of all the data science pdf's that I have accumulated over the years, organized in the following directories:
 
-* 01 Books
-* 02 Datacamp
-* 03 Machine learning
-* 04 Hyperparameter tuning
-* 05 Time series analysis
-* 06 Python
-* 07 R
-* 08 Spark
-* 09 NUS Statistics
-* 10 Others
+* [01 Books](https://github.com/tohweizhong/pdf-dump/tree/master/01%20Books)
+* [02 Datacamp](https://github.com/tohweizhong/pdf-dump/tree/master/02%20Datacamp)
+* [03 Machine learning](https://github.com/tohweizhong/pdf-dump/tree/master/03%20Machine%20learning)
+* [04 Hyperparameter tuning](https://github.com/tohweizhong/pdf-dump/tree/master/04%20Hyperparameter%20tuning)
+* [05 Time series analysis](https://github.com/tohweizhong/pdf-dump/tree/master/05%20Time%20series%20analysis)
+* [06 Python](https://github.com/tohweizhong/pdf-dump/tree/master/06%20Python)
+* [07 R](https://github.com/tohweizhong/pdf-dump/tree/master/07%20R)
+* [08 Spark](https://github.com/tohweizhong/pdf-dump/tree/master/08%20Spark)
+* [09 NUS Statistics](https://github.com/tohweizhong/pdf-dump/tree/master/09%20NUS%20Statistics)
+* [10 Others](https://github.com/tohweizhong/pdf-dump/tree/master/10%20Others)
 
 Also, I have included a list of typical resource recommendations for picking up machine learning in this README. I plan to continually update this repo from time to time. Some of these are the classics, while others are my personal recommendations. The last section on "References" are not learning resources, but references on specific problems that I encountered. If you are here for the resources, please ignore this section. I will try as best as I can to categorise the resources listed here, first by medium (most hardcore to least hardcore) then by high-level content.
 
