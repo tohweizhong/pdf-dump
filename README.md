@@ -15,7 +15,7 @@ A dump of all the data science pdf's that I have accumulated over the years, org
 * [09 NUS Statistics](https://github.com/tohweizhong/pdf-dump/tree/master/09%20NUS%20Statistics)
 * [10 Others](https://github.com/tohweizhong/pdf-dump/tree/master/10%20Others)
 
-Also, I have included a list of typical resource recommendations for picking up machine learning in this README. I plan to continually update this repo from time to time. Some of these are the classics, while others are my personal recommendations. The last section on "References" are not learning resources, but references on specific problems that I encountered. If you are here for the resources, please ignore this section. I will try as best as I can to categorise the resources listed here, first by medium (most hardcore to least hardcore) then by high-level content.
+Also, I have included a list of typical resource recommendations for picking up machine learning in this README. I plan to continually update this repo from time to time. Some of these are the classics, while others are my personal recommendations. The last section on "References" are not learning resources, but references on specific problems that I encountered. If you are here for the resources, please ignore this section. Content is categorized by medium (most hardcore to least hardcore).
 
 ## Books/Textbooks
 
@@ -24,6 +24,7 @@ Also, I have included a list of typical resource recommendations for picking up 
 * [Deep Learning by Ian Goodfellow](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine-ebook/dp/B01MRVFGX4/ref=as_li_ss_tl)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=as_li_ss_tl)
 * [Learning Python by Mark Lutz](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=as_li_ss_tl)
+* [Forecasting: Principles and Practice by Rod Hyndman, George Athanasopoulos](https://otexts.org/fpp2/)
 
 ## Online Courses
 
@@ -34,7 +35,7 @@ Also, I have included a list of typical resource recommendations for picking up 
 * [Coursera course on Competitive Data Science](https://www.coursera.org/learn/competitive-data-science)
 * [Waterloo Machine Learning Course by Shai Ben-David](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)
 
-## Websites/Webpages/Videos
+## Websites/Webpages
 
 * [Rules of Machine Learning by Google](https://developers.google.com/machine-learning/rules-of-ml/)
 * [Deeplearningbook.org](http://www.deeplearningbook.org/)
@@ -45,6 +46,12 @@ Also, I have included a list of typical resource recommendations for picking up 
 * [Running R on AWS](https://aws.amazon.com/blogs/big-data/running-r-on-aws/)
 * [Random Forests in R](https://github.com/tohweizhong/RUGS-RF)
 * [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
+* [CRAN Task View on Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
+* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
+* [DataRobot Artificial Intelligence Wiki](https://www.datarobot.com/wiki/)
+* [TensorFlow Playground](https://playground.tensorflow.org/)
+* [Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
+* [Gradient Boosting Explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 ## Podcasts
 
@@ -52,5 +59,3 @@ Also, I have included a list of typical resource recommendations for picking up 
 * [Dataframed by DataCamp](https://www.datacamp.com/community/podcast)
 
 ## References
-
-
