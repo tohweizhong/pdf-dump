@@ -1,4 +1,7 @@
 # pdf-dump
+
+(All content in this repository belong to their respective authors and none to me. This is simply a personal consolidation.)
+
 A dump of all the data science pdf's that I have accumulated over the years, organized in the following directories:
 
 * [01 Books](https://github.com/tohweizhong/pdf-dump/tree/master/01%20Books)
