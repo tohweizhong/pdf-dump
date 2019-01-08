@@ -59,3 +59,6 @@ Also, I have included a list of typical resource recommendations for picking up 
 * [Dataframed by DataCamp](https://www.datacamp.com/community/podcast)
 
 ## References
+
+* [Portable R installation](https://sourceforge.net/projects/rportable/)
+* [Portable RStudio installation](https://sourceforge.net/projects/rportable/files/R-Studio/0.97.551/)
