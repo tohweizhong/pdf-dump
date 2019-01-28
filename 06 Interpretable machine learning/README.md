@@ -1,11 +1,12 @@
 This is a curation of Github repos related to interpretable machine learning.
 
-## General resources
+## General
 * https://github.com/jphall663/awesome-machine-learning-interpretability
 * https://github.com/h2oai/mli-resources
 * https://github.com/jphall663/jsm_2018_paper
 * https://github.com/lopusz/awesome-interpretable-machine-learning
 * https://github.com/pbiecek/xai_resources
+* https://github.com/jphall663/xai_misconceptions
 
 ## R
 * https://github.com/pbiecek/DALEX
@@ -27,7 +28,7 @@ This is a curation of Github repos related to interpretable machine learning.
 * https://github.com/nyuvis/partial_dependence
 * https://github.com/marcotcr/lime
 
-## Deep Learning
+## Deep learning
 * https://github.com/CSAILVision/gandissect
 * https://github.com/keiserlab/plaquebox-paper
 * https://github.com/atulshanbhag/Layerwise-Relevance-Propagation
