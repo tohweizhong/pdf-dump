@@ -10,11 +10,12 @@ A dump of all the data science pdf's that I have accumulated over the years, org
 * [04 Hyperparameter tuning](https://github.com/tohweizhong/pdf-dump/tree/master/04%20Hyperparameter%20tuning)
 * [05 Time series analysis](https://github.com/tohweizhong/pdf-dump/tree/master/05%20Time%20series%20analysis)
 * [06 Interpretable machine learning](https://github.com/tohweizhong/pdf-dump/tree/master/06%20Interpretable%20machine%20learning)
-* [07 Python](https://github.com/tohweizhong/pdf-dump/tree/master/07%20Python)
-* [08 R](https://github.com/tohweizhong/pdf-dump/tree/master/08%20R)
-* [09 Spark](https://github.com/tohweizhong/pdf-dump/tree/master/09%20Spark)
-* [10 NUS Statistics](https://github.com/tohweizhong/pdf-dump/tree/master/10%20NUS%20Statistics)
-* [11 Others](https://github.com/tohweizhong/pdf-dump/tree/master/11%20Others)
+* [07 Practical machine learning](https://github.com/tohweizhong/pdf-dump/tree/master/07%20Practical%20machine%20learning)
+* [08 Python](https://github.com/tohweizhong/pdf-dump/tree/master/08%20Python)
+* [09 R](https://github.com/tohweizhong/pdf-dump/tree/master/09%20R)
+* [10 Spark](https://github.com/tohweizhong/pdf-dump/tree/master/10%20Spark)
+* [11 NUS Statistics](https://github.com/tohweizhong/pdf-dump/tree/master/11%20NUS%20Statistics)
+* [12 Others](https://github.com/tohweizhong/pdf-dump/tree/master/12%20Others)
 
 Also, I have included a list of typical resource recommendations for picking up machine learning in this README. I plan to continually update this repo from time to time. Some of these are the classics, while others are my personal recommendations. The last section on "References" are not learning resources, but references on specific problems that I encountered. If you are here for the resources, please ignore this section. Content is categorized by medium (most hardcore to least hardcore).
 
