@@ -10,6 +10,7 @@ This is a curation of Github repos related to interpretable machine learning.
 
 ## R
 * https://github.com/pbiecek/DALEX
+* https://github.com/pbiecek/breakDown
 * https://github.com/ModelOriented/DALEX2
 * https://github.com/pbiecek/breakDown
 * https://github.com/MI2DataLab/live
