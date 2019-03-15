@@ -55,6 +55,7 @@ Also, I have included a list of typical resource recommendations for picking up 
 * [Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
 * [Gradient Boosting Explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 * [R packages by Hadley Wickham](http://r-pkgs.had.co.nz/)
+* [CRAN Packages By Name](https://cran.r-project.org/web/packages/available_packages_by_name.html)
 
 ## Podcasts
 
