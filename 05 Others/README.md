@@ -17,6 +17,7 @@
 * [Gradient Boosting Explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 * [R packages by Hadley Wickham](http://r-pkgs.had.co.nz/)
 * [CRAN Packages By Name](https://cran.r-project.org/web/packages/available_packages_by_name.html)
+* https://www.datasciencecentral.com/profiles/blogs/probability-cheat-sheet
 
 ## Podcasts
 
