@@ -18,6 +18,11 @@
 * [R packages by Hadley Wickham](http://r-pkgs.had.co.nz/)
 * [CRAN Packages By Name](https://cran.r-project.org/web/packages/available_packages_by_name.html)
 * https://www.datasciencecentral.com/profiles/blogs/probability-cheat-sheet
+* https://bbc.github.io/rcookbook/
+* https://towardsdatascience.com/the-actual-difference-between-statistics-and-machine-learning-64b49f07ea3
+* http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
+* https://sebastiansauer.github.io/rowwise_dplyr/
+* https://stats.stackexchange.com/questions/1194/practical-thoughts-on-explanatory-vs-predictive-modeling
 
 ## Podcasts
 
@@ -28,3 +33,13 @@
 
 * [Portable R installation](https://sourceforge.net/projects/rportable/)
 * [Portable RStudio installation](https://sourceforge.net/projects/rportable/files/R-Studio/0.97.551/)
+
+## Online Courses
+
+* [DataCamp](https://www.datacamp.com/home)
+* [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning)
+* [Georgia Tech Online Master of Science in Computer Science](https://www.omscs.gatech.edu/)
+* [Fast.ai Practical Deep Learning for Coders Part 1](http://course.fast.ai/)
+* [Coursera course on Competitive Data Science](https://www.coursera.org/learn/competitive-data-science)
+* [Waterloo Machine Learning Course by Shai Ben-David](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)
+* https://www.udemy.com/docker-mastery/
