@@ -9,4 +9,4 @@ A dump of all the data science pdf's that I have accumulated over the years, org
 * [03 Languages](https://github.com/tohweizhong/pdf-dump/tree/master/03%20Languages)
 * [04 NUS Statistics](https://github.com/tohweizhong/pdf-dump/tree/master/04%20NUS%20Statistics)
 * [05 Statistical finance](https://github.com/tohweizhong/pdf-dump/tree/master/05%20Statistical%20finance)
-* [05 Others](https://github.com/tohweizhong/pdf-dump/tree/master/05%20Others)
+* [99 Others](https://github.com/tohweizhong/pdf-dump/tree/master/05%20Others)
