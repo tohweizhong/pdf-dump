@@ -23,6 +23,7 @@
 * http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html
 * https://sebastiansauer.github.io/rowwise_dplyr/
 * https://stats.stackexchange.com/questions/1194/practical-thoughts-on-explanatory-vs-predictive-modeling
+* http://www.holehouse.org/mlclass/
 
 ## Podcasts
 
