@@ -10,3 +10,5 @@ A dump of all the data science pdf's that I have accumulated over the years, org
 * [04 NUS Statistics](https://github.com/tohweizhong/pdf-dump/tree/master/04%20NUS%20Statistics)
 * [05 Statistical finance](https://github.com/tohweizhong/pdf-dump/tree/master/05%20Statistical%20finance)
 * [99 Others](https://github.com/tohweizhong/pdf-dump/tree/master/99%20Others)
+
+(Don't change this structure.)
